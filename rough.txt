@@ -1,0 +1,1 @@
+$row = mysqli_fetch_array($stuinfo);

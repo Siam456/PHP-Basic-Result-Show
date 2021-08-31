@@ -1,0 +1,44 @@
+
+header{
+    height: 140px;
+    background-color:#bbd0ff;
+    border-radius: 10px;
+}
+header img{
+    margin-top: 35px;
+    height: 70px;
+    width: 270px;
+}
+.tagline{
+    margin-top: 30px;
+    margin-right: 280px;
+    float: right;
+    text-align: center;
+    color: rgb(8, 16, 124);
+}
+.container{
+    margin-top: 150px;
+}
+.subject-select {
+    position: relative;
+    font-family: Arial;
+  }
+.semester-select {
+    position: relative;
+    font-family: Arial;
+  }
+.campus-select {
+    position: relative;
+    font-family: Arial;
+  }
+.btn{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+table h5{
+    color: indigo;
+    font-family: Arial;
+}
+.jumbotron{
+    background-color: khaki;
+}
